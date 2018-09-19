@@ -1,4 +1,4 @@
-# Python Pack Room Game
+# Python Pack Rooms Game
 
 This is a script game project which involves python pack structure creation and object-oriented design implementation. 
 
@@ -12,7 +12,7 @@ Python 3.6 or greater
 ## Install and Usage
 
 	1. Clone the repository
-		https://github.com/edisnake/PythonDjangoPostApp.git
+		https://github.com/edisnake/PythonPackRoomsGame.git
 	
 	2. In the command line go to project cloned folder and run the script
 		python main.py
@@ -28,9 +28,11 @@ Python 3.6 or greater
 		
 		- If you want to talk with the character in the current room, then you can type "talk" to get character's conversation 
 		
-		- If you want to fight with the character in the current room, then you can type "fight" next you will have to type which item (weapon) to use as long as it's in your backpack.
+		- If you want to fight with the character in the current room,
+			then you can type "fight" next you will have to type which item (weapon) to use as long as it's in your backpack.
 		
-		- If you can fight maybe you should type "take" first, because this way you can save the room's item in your backpack and use it to fight
+		- If you can fight maybe you should type "take" first, 
+			because this way you can save the room's item in your backpack and use it to fight.
 		
 		- You win the game when defeating 2 characters (enemies). You lose if you choose a wrong item to fight
 		
